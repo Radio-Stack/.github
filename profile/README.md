@@ -1,6 +1,6 @@
 # RadioStack
 
-![RadioStack](images/RadioStack_logo.jpg)
+![RadioStack](/images/RadioStack_logo.jpg)
 
 ## About Us
 
