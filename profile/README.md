@@ -1,5 +1,7 @@
 # RadioStack
 
+![RadioStack](images/RadioStack_logo.jpg)
+
 ## About Us
 
 RadioStack is hardware and semiconductor design company based in Manchester, NH. Being one of only a few organizations designing open source chips, we are at the forefront of emerging semiconductor technology. Our goal is to not only create amazing products, but to build the open source community in an area not accustomed to it. 
