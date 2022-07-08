@@ -1,6 +1,8 @@
 # RadioStack
 
-![RadioStack](/images/RadioStack_logo.jpg)
+<div align="center">
+<img src="https://github.com/Radio-Stack/images/blob/main/RadioStack_logo.png" title="RadioStack" alt="RadioStack" width="600" height="236"/>
+</div>
 
 ## About Us
 
